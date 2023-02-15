@@ -1,0 +1,19 @@
+{
+  "name": "createpackage/inspire",
+  "autoload":
+  {
+    "psr-4":
+    {
+      "Createpackage\\Inspire\\": "src/"
+    }
+  },
+  "authors": [
+  {
+    "name": "Farhan Hasin Chowdhury",
+    "email": "shovik.is.here@gmail.com"
+  }],
+  "require":
+  {
+    "guzzlehttp/guzzle": "^7.0.1"
+  }
+}
