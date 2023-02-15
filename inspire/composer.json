@@ -1,5 +1,6 @@
 {
   "name": "createpackage/inspire",
+  "description": "Deploy package on vendor from deploy on packages",
   "autoload":
   {
     "psr-4":
@@ -9,8 +10,8 @@
   },
   "authors": [
   {
-    "name": "Farhan Hasin Chowdhury",
-    "email": "shovik.is.here@gmail.com"
+    "name": "Lionel Pham",
+    "email": "phamngoctuong1805@gmail.com"
   }],
   "require":
   {

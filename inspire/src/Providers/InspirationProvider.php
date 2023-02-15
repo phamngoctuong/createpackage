@@ -10,7 +10,7 @@ class InspirationProvider extends ServiceProvider
    */
   public function register()
   {
-    //
+    $this->app->make('Createpackage\Inspire\InspirationController');
   }
   /**
    * Bootstrap services.
