@@ -1,5 +1,5 @@
 {
-  "name": "createpackage/inspire",
+  "name": "createlionelpackage/inspire",
   "description": "Deploy package on vendor from deploy on packages",
   "autoload":
   {
