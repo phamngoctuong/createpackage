@@ -1,5 +1,5 @@
 <?php
-namespace Createpackage\Inspire;
+namespace Createlionelpackage\Inspire;
 use Illuminate\Support\Facades\Http;
 class Inspire
 {

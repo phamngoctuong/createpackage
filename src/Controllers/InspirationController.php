@@ -1,7 +1,7 @@
 <?php
-namespace Createpackage\Inspire\Controllers;
+namespace Createlionelpackage\Inspire\Controllers;
 use Illuminate\Http\Request;
-use Createpackage\Inspire\Inspire;
+use Createlionelpackage\Inspire\Inspire;
 class InspirationController
 {
   public function __invoke(Inspire $inspire)

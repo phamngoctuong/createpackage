@@ -1,5 +1,5 @@
 <?php
-namespace Createpackage\Inspire\Providers;
+namespace Createlionelpackage\Inspire\Providers;
 use Illuminate\Support\ServiceProvider;
 class InspirationProvider extends ServiceProvider
 {
@@ -10,7 +10,7 @@ class InspirationProvider extends ServiceProvider
    */
   public function register()
   {
-    $this->app->make('Createpackage\Inspire\InspirationController');
+    $this->app->make('Createlionelpackage\Inspire\InspirationController');
   }
   /**
    * Bootstrap services.
