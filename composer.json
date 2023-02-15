@@ -1,6 +1,7 @@
 {
   "name": "createlionelpackage/inspire",
   "description": "Deploy package on vendor from deploy on packages",
+  "license": "MIT",
   "autoload":
   {
     "psr-4":
