@@ -13,6 +13,13 @@
     "name": "Lionel Pham Test",
     "email": "phamngoctuong1805@gmail.com"
   }],
+  "extra":
+  {
+    "laravel":
+    {
+      "providers": ["Createpackage\\Inspire\\Providers\\InspirationProvider"]
+    }
+  },
   "require":
   {
     "guzzlehttp/guzzle": "^7.0.1"
